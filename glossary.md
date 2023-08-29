@@ -28,6 +28,15 @@ More to read: https://www.coursera.org/articles/front-end-developer, https://boo
 
 ## Git
 
+Git is the largest and most well known version control tools that is used by a large base of people. It also has a important feature of collaboration which allows various people to all be working on one source. So this makes working in a team much easier in terms of writing code. Git saves changes when they are made to files and these changes are known as "Commits" . The next step would be called a "pull request" which would work as a way you could let your team know your code is ready to review and if you decide it is good to go you can add it to your codebase.
+
+Git can be used via
+
+terminal
+Desktop including a Gui
+Resources: https://www.nobledesktop.com/learn/git/what-is-git
+
+
 
 ## Content Management System
 
